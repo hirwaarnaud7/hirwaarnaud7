@@ -12,12 +12,6 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
 ###
 
 <p align="left">I'm Arnaud from Rwanda<br><br>- 🔭 I’m working as fullstack developer<br>- 📚 I'm currently learning Node.js<br>- ⚡ In my free time I like play basketball</p>
